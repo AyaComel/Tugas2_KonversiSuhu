@@ -238,6 +238,10 @@ private void setupDocumentListener(){
         });  
 }
 ~~~
+Gambar
+~~~
+
+
 ## Indikator Penilaian:
 
 | No  | Komponen         |  Persentase  |
