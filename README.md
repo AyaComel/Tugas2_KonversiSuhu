@@ -62,7 +62,7 @@ Rumus konversi, validasi input
                     JOptionPane.showMessageDialog(this, "Pilihan konversi tidak valid!");
                     break;
                     
-            }  
+            }
         } else if (FahrenheitToSkalaLain.isSelected()) {
             // Konversi dari Fahrenheit ke skala yang dipilih
             switch (hasilKonversi) {
@@ -115,10 +115,12 @@ Rumus konversi, validasi input
         } catch (NumberFormatException e) {
             JOptionPane.showMessageDialog(this, "Masukkan angka yang valid!");
         }
-   ~~~   
+    
+    }
+~~~   
 • Tombol Konversi diklik akan menampilkan hasil konversi dari
 ~~~
-// Dari Celcius ke Skala Lain
+// Dari Celsius ke skala lain
 private double celsiusToFahrenheit(double celsius) {
     return (celsius * 9/5) + 32;
 }
