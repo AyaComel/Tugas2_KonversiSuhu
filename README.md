@@ -237,8 +237,7 @@ private void setupDocumentListener(){
         });  
 }
 ~~~
-Gambar
-~~~
+## Gambar
 ![](https://github.com/AyaComel/Tugas2_KonversiSuhu/blob/main/Tugas2.png)
 
 ## Indikator Penilaian:
