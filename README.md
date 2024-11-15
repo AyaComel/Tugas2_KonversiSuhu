@@ -1,7 +1,6 @@
 # Tugas2_KonversiSuhu
  Tugas2-Cahya Hayyuni-2210010118
-# KonversiSuhuApp
- Tugas2-Cahya Hayyuni 2210010118
+ 
 # 1. Deskripsi Program
 Program Konversi Suhu ini adalah aplikasi sederhana berbasis Java yang memungkinkan pengguna untuk memasukkan nilai suhu dalam skala Celcius dan mengonversinya ke skala suhu lain, yaitu Fahrenheit, Reamur, atau Kelvin. Program ini dibuat menggunakan JFrame sebagai antarmuka pengguna dan dijalankan melalui NetBeans IDE 8.2.
 
